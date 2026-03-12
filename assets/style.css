@@ -4,6 +4,7 @@
 
 body {
     margin: 0;
+    background-color: #fcf7f1;
 }
 
 /* Header */
@@ -50,4 +51,19 @@ h1 {
 }
 
 /* Main */
+
+.brand-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.brand-logo {
+    height: 50px;
+}
+
+h2 {
+    font-size: 40px;
+    color: #5f09a5;
+}
 
